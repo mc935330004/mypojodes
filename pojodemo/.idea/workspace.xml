@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3bc6371b-547b-47a4-b47f-d3ab2c42bade" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fieldName</find>
+      <find>upperCasecloumnName</find>
+      <find>table</find>
+      <find>cloumns</find>
+      <find>cloumn</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>propertyName</replace>
+      <replace>upperPropertyName</replace>
+      <replace>columns</replace>
+      <replace>column</replace>
+    </replaceStrings>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/DrvPath/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="C:\DrvPath\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TEdJDMNjnoh4O48txJgKVdVCuG" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572943731351" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\IdeaProjects\pojodemo\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.App" />
+      <module name="pojo-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bc6371b-547b-47a4-b47f-d3ab2c42bade" name="Default Changelist" comment="" />
+      <created>1556263364386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556263364386</updated>
+      <workItem from="1556263368317" duration="9893000" />
+      <workItem from="1557242884178" duration="1432000" />
+      <workItem from="1557413672487" duration="74000" />
+      <workItem from="1557413908058" duration="6000" />
+      <workItem from="1572942309499" duration="1372000" />
+      <workItem from="1573029115840" duration="743000" />
+      <workItem from="1573029924525" duration="1211000" />
+      <workItem from="1573455978452" duration="236000" />
+      <workItem from="1573543570591" duration="10000" />
+      <workItem from="1574840620131" duration="250000" />
+      <workItem from="1574988508553" duration="55000" />
+      <workItem from="1575249880577" duration="62000" />
+      <workItem from="1575250041114" duration="202000" />
+      <workItem from="1575425198955" duration="365000" />
+      <workItem from="1575596668143" duration="23000" />
+      <workItem from="1576217438078" duration="52000" />
+      <workItem from="1576460024214" duration="31000" />
+      <workItem from="1576995845819" duration="29000" />
+      <workItem from="1577153568948" duration="18000" />
+      <workItem from="1577600620760" duration="16000" />
+      <workItem from="1577773350188" duration="20000" />
+      <workItem from="1578205205532" duration="16000" />
+      <workItem from="1578384028159" duration="18000" />
+      <workItem from="1578558947313" duration="313000" />
+      <workItem from="1578801200953" duration="59000" />
+      <workItem from="1578809619219" duration="15000" />
+      <workItem from="1579933386293" duration="20000" />
+      <workItem from="1581125421564" duration="18000" />
+      <workItem from="1581731127652" duration="13000" />
+      <workItem from="1581731817127" duration="8000" />
+      <workItem from="1581743583570" duration="11000" />
+      <workItem from="1582332957689" duration="37000" />
+      <workItem from="1582541385398" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
